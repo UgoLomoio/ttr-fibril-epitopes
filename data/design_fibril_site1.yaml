@@ -1,0 +1,34 @@
+entities:
+  # Target: 4-chain 6SDZ fibril assembly (V30M ATTR fibril, chains A-D)
+  - file:
+      path: 6sdz_ABCD.cif  # official RCSB mmCIF (full entity_poly_seq)
+      include:
+        - chain:
+            id: A
+        - chain:
+            id: B
+        - chain:
+            id: C
+        - chain:
+            id: D
+      # Bind the fibril-exposed N-terminal segment (official CIF uses label_seq_id = mature numbering;
+      # Pro11/Thr13/Leu15 = label_seq 11/13/15) on any of the four stacked chains
+      binding_types:
+        - chain:
+            id: A
+            binding: 11..16
+        - chain:
+            id: B
+            binding: 11..16
+        - chain:
+            id: C
+            binding: 11..16
+        - chain:
+            id: D
+            binding: 11..16
+  # Nanobody CDR frameworks to design onto
+  - file:
+      path:
+        - 7eow.yaml
+        - 7xl0.yaml
+        - 8coh.yaml

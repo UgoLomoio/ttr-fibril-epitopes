@@ -1,0 +1,28 @@
+entities:
+  # Target: 3-chain 9W9N fibril assembly (F64S ATTRv, vitreous humor / ocular amyloid)
+  - file:
+      path: 9w9n_ABC.cif
+      include:
+        - chain:
+            id: A
+        - chain:
+            id: B
+        - chain:
+            id: C
+      # Gate region of the polar channel (label_seq = mature numbering; includes F64S at 64)
+      binding_types:
+        - chain:
+            id: A
+            binding: 58..66
+        - chain:
+            id: B
+            binding: 58..66
+        - chain:
+            id: C
+            binding: 58..66
+  # Nanobody CDR frameworks to design onto
+  - file:
+      path:
+        - 7eow.yaml
+        - 7xl0.yaml
+        - 8coh.yaml

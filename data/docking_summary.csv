@@ -1,0 +1,7 @@
+job,complex_iptm,iptm_T4,iptm_T3,iptm_sulfo-Cys,iptm_GSH,iptm_cysgly
+wt_T4,0.956,0.94,,,,
+wt_T3,0.954,,0.931,,,
+sulfo_T4,0.949,0.893,,0.76,,
+sulfo_T3,0.948,,0.874,0.653,,
+gsh_T4,0.937,0.91,,,0.727,
+cysgly_T4,0.953,0.946,,,,0.809

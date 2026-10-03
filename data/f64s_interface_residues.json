@@ -1,0 +1,1000 @@
+{
+ "design_f64s_nterm_3_vs_9w9n_vitreous": {
+  "TTR_B_11": {
+   "chain": "TTR_B",
+   "mature_resnum": 11,
+   "resname": "PRO",
+   "min_dist": 3.65
+  },
+  "TTR_B_12": {
+   "chain": "TTR_B",
+   "mature_resnum": 12,
+   "resname": "LEU",
+   "min_dist": 2.66
+  },
+  "TTR_B_13": {
+   "chain": "TTR_B",
+   "mature_resnum": 13,
+   "resname": "MET",
+   "min_dist": 2.93
+  },
+  "TTR_B_14": {
+   "chain": "TTR_B",
+   "mature_resnum": 14,
+   "resname": "VAL",
+   "min_dist": 2.96
+  },
+  "TTR_B_15": {
+   "chain": "TTR_B",
+   "mature_resnum": 15,
+   "resname": "LYS",
+   "min_dist": 2.71
+  },
+  "TTR_B_23": {
+   "chain": "TTR_B",
+   "mature_resnum": 23,
+   "resname": "SER",
+   "min_dist": 4.23
+  },
+  "TTR_B_24": {
+   "chain": "TTR_B",
+   "mature_resnum": 24,
+   "resname": "PRO",
+   "min_dist": 3.32
+  },
+  "TTR_B_25": {
+   "chain": "TTR_B",
+   "mature_resnum": 25,
+   "resname": "ALA",
+   "min_dist": 3.38
+  },
+  "TTR_B_26": {
+   "chain": "TTR_B",
+   "mature_resnum": 26,
+   "resname": "ILE",
+   "min_dist": 3.06
+  },
+  "TTR_B_27": {
+   "chain": "TTR_B",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 3.01
+  },
+  "TTR_B_28": {
+   "chain": "TTR_B",
+   "mature_resnum": 28,
+   "resname": "VAL",
+   "min_dist": 4.34
+  },
+  "TTR_B_30": {
+   "chain": "TTR_B",
+   "mature_resnum": 30,
+   "resname": "VAL",
+   "min_dist": 4.3
+  },
+  "TTR_B_32": {
+   "chain": "TTR_B",
+   "mature_resnum": 32,
+   "resname": "VAL",
+   "min_dist": 3.8
+  },
+  "TTR_B_42": {
+   "chain": "TTR_B",
+   "mature_resnum": 42,
+   "resname": "GLU",
+   "min_dist": 2.42
+  },
+  "TTR_C_83": {
+   "chain": "TTR_C",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 3.48
+  },
+  "TTR_C_102": {
+   "chain": "TTR_C",
+   "mature_resnum": 102,
+   "resname": "THR",
+   "min_dist": 3.98
+  }
+ },
+ "design_f64s_nterm_3_vs_6sdz_fibril": {
+  "TTR_A_83": {
+   "chain": "TTR_A",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 3.28
+  },
+  "TTR_A_102": {
+   "chain": "TTR_A",
+   "mature_resnum": 102,
+   "resname": "THR",
+   "min_dist": 3.44
+  },
+  "TTR_D_11": {
+   "chain": "TTR_D",
+   "mature_resnum": 11,
+   "resname": "PRO",
+   "min_dist": 3.42
+  },
+  "TTR_D_12": {
+   "chain": "TTR_D",
+   "mature_resnum": 12,
+   "resname": "LEU",
+   "min_dist": 2.74
+  },
+  "TTR_D_13": {
+   "chain": "TTR_D",
+   "mature_resnum": 13,
+   "resname": "MET",
+   "min_dist": 3.42
+  },
+  "TTR_D_14": {
+   "chain": "TTR_D",
+   "mature_resnum": 14,
+   "resname": "VAL",
+   "min_dist": 3.1
+  },
+  "TTR_D_15": {
+   "chain": "TTR_D",
+   "mature_resnum": 15,
+   "resname": "LYS",
+   "min_dist": 2.65
+  },
+  "TTR_D_23": {
+   "chain": "TTR_D",
+   "mature_resnum": 23,
+   "resname": "SER",
+   "min_dist": 4.48
+  },
+  "TTR_D_24": {
+   "chain": "TTR_D",
+   "mature_resnum": 24,
+   "resname": "PRO",
+   "min_dist": 3.37
+  },
+  "TTR_D_25": {
+   "chain": "TTR_D",
+   "mature_resnum": 25,
+   "resname": "ALA",
+   "min_dist": 4.11
+  },
+  "TTR_D_26": {
+   "chain": "TTR_D",
+   "mature_resnum": 26,
+   "resname": "ILE",
+   "min_dist": 3.33
+  },
+  "TTR_D_27": {
+   "chain": "TTR_D",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 4.07
+  },
+  "TTR_D_30": {
+   "chain": "TTR_D",
+   "mature_resnum": 30,
+   "resname": "MET",
+   "min_dist": 3.83
+  },
+  "TTR_D_32": {
+   "chain": "TTR_D",
+   "mature_resnum": 32,
+   "resname": "VAL",
+   "min_dist": 4.16
+  },
+  "TTR_D_42": {
+   "chain": "TTR_D",
+   "mature_resnum": 42,
+   "resname": "GLU",
+   "min_dist": 2.58
+  },
+  "TTR_D_43": {
+   "chain": "TTR_D",
+   "mature_resnum": 43,
+   "resname": "PHE",
+   "min_dist": 3.07
+  },
+  "TTR_D_83": {
+   "chain": "TTR_D",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 3.64
+  },
+  "TTR_D_85": {
+   "chain": "TTR_D",
+   "mature_resnum": 85,
+   "resname": "THR",
+   "min_dist": 3.57
+  }
+ },
+ "design_f64s_nterm_3_vs_8ade_fibril": {
+  "TTR_B_11": {
+   "chain": "TTR_B",
+   "mature_resnum": 11,
+   "resname": "PRO",
+   "min_dist": 3.4
+  },
+  "TTR_B_12": {
+   "chain": "TTR_B",
+   "mature_resnum": 12,
+   "resname": "LEU",
+   "min_dist": 2.72
+  },
+  "TTR_B_13": {
+   "chain": "TTR_B",
+   "mature_resnum": 13,
+   "resname": "MET",
+   "min_dist": 3.18
+  },
+  "TTR_B_14": {
+   "chain": "TTR_B",
+   "mature_resnum": 14,
+   "resname": "VAL",
+   "min_dist": 2.81
+  },
+  "TTR_B_15": {
+   "chain": "TTR_B",
+   "mature_resnum": 15,
+   "resname": "LYS",
+   "min_dist": 3.44
+  },
+  "TTR_B_23": {
+   "chain": "TTR_B",
+   "mature_resnum": 23,
+   "resname": "SER",
+   "min_dist": 4.18
+  },
+  "TTR_B_24": {
+   "chain": "TTR_B",
+   "mature_resnum": 24,
+   "resname": "PRO",
+   "min_dist": 3.15
+  },
+  "TTR_B_25": {
+   "chain": "TTR_B",
+   "mature_resnum": 25,
+   "resname": "ALA",
+   "min_dist": 3.53
+  },
+  "TTR_B_26": {
+   "chain": "TTR_B",
+   "mature_resnum": 26,
+   "resname": "ILE",
+   "min_dist": 2.84
+  },
+  "TTR_B_27": {
+   "chain": "TTR_B",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 2.21
+  },
+  "TTR_B_28": {
+   "chain": "TTR_B",
+   "mature_resnum": 28,
+   "resname": "VAL",
+   "min_dist": 3.24
+  },
+  "TTR_B_29": {
+   "chain": "TTR_B",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 4.06
+  },
+  "TTR_B_30": {
+   "chain": "TTR_B",
+   "mature_resnum": 30,
+   "resname": "VAL",
+   "min_dist": 3.97
+  },
+  "TTR_B_32": {
+   "chain": "TTR_B",
+   "mature_resnum": 32,
+   "resname": "VAL",
+   "min_dist": 3.56
+  },
+  "TTR_B_43": {
+   "chain": "TTR_B",
+   "mature_resnum": 43,
+   "resname": "PHE",
+   "min_dist": 2.68
+  },
+  "TTR_B_83": {
+   "chain": "TTR_B",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 2.58
+  },
+  "TTR_D_102": {
+   "chain": "TTR_D",
+   "mature_resnum": 102,
+   "resname": "THR",
+   "min_dist": 4.1
+  }
+ },
+ "design_f64s_nterm_3_vs_native_tetramer": {
+  "TTR_A_27": {
+   "chain": "TTR_A",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 3.74
+  },
+  "TTR_A_29": {
+   "chain": "TTR_A",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 3.8
+  },
+  "TTR_A_31": {
+   "chain": "TTR_A",
+   "mature_resnum": 31,
+   "resname": "HIS",
+   "min_dist": 2.63
+  },
+  "TTR_A_33": {
+   "chain": "TTR_A",
+   "mature_resnum": 33,
+   "resname": "PHE",
+   "min_dist": 4.39
+  },
+  "TTR_A_43": {
+   "chain": "TTR_A",
+   "mature_resnum": 43,
+   "resname": "PRO",
+   "min_dist": 3.27
+  },
+  "TTR_A_46": {
+   "chain": "TTR_A",
+   "mature_resnum": 46,
+   "resname": "SER",
+   "min_dist": 3.19
+  },
+  "TTR_A_48": {
+   "chain": "TTR_A",
+   "mature_resnum": 48,
+   "resname": "LYS",
+   "min_dist": 2.17
+  },
+  "TTR_A_72": {
+   "chain": "TTR_A",
+   "mature_resnum": 72,
+   "resname": "GLU",
+   "min_dist": 2.35
+  },
+  "TTR_A_74": {
+   "chain": "TTR_A",
+   "mature_resnum": 74,
+   "resname": "ASP",
+   "min_dist": 2.82
+  },
+  "TTR_A_76": {
+   "chain": "TTR_A",
+   "mature_resnum": 76,
+   "resname": "LYS",
+   "min_dist": 3.59
+  },
+  "TTR_A_77": {
+   "chain": "TTR_A",
+   "mature_resnum": 77,
+   "resname": "SER",
+   "min_dist": 2.35
+  },
+  "TTR_A_80": {
+   "chain": "TTR_A",
+   "mature_resnum": 80,
+   "resname": "LYS",
+   "min_dist": 2.93
+  },
+  "TTR_A_81": {
+   "chain": "TTR_A",
+   "mature_resnum": 81,
+   "resname": "ALA",
+   "min_dist": 3.45
+  },
+  "TTR_A_89": {
+   "chain": "TTR_A",
+   "mature_resnum": 89,
+   "resname": "GLU",
+   "min_dist": 3.29
+  },
+  "TTR_B_35": {
+   "chain": "TTR_B",
+   "mature_resnum": 35,
+   "resname": "LYS",
+   "min_dist": 2.63
+  },
+  "TTR_B_37": {
+   "chain": "TTR_B",
+   "mature_resnum": 37,
+   "resname": "ALA",
+   "min_dist": 2.87
+  },
+  "TTR_B_38": {
+   "chain": "TTR_B",
+   "mature_resnum": 38,
+   "resname": "ASP",
+   "min_dist": 4.33
+  },
+  "TTR_B_39": {
+   "chain": "TTR_B",
+   "mature_resnum": 39,
+   "resname": "ASP",
+   "min_dist": 2.57
+  },
+  "TTR_B_68": {
+   "chain": "TTR_B",
+   "mature_resnum": 68,
+   "resname": "ILE",
+   "min_dist": 3.28
+  }
+ },
+ "design_f64s_nterm_3_vs_native_monomer": {
+  "TTR_A_27": {
+   "chain": "TTR_A",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 2.61
+  },
+  "TTR_A_29": {
+   "chain": "TTR_A",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 3.7
+  },
+  "TTR_A_31": {
+   "chain": "TTR_A",
+   "mature_resnum": 31,
+   "resname": "HIS",
+   "min_dist": 3.05
+  },
+  "TTR_A_33": {
+   "chain": "TTR_A",
+   "mature_resnum": 33,
+   "resname": "PHE",
+   "min_dist": 2.73
+  },
+  "TTR_A_43": {
+   "chain": "TTR_A",
+   "mature_resnum": 43,
+   "resname": "PRO",
+   "min_dist": 3.38
+  },
+  "TTR_A_45": {
+   "chain": "TTR_A",
+   "mature_resnum": 45,
+   "resname": "ALA",
+   "min_dist": 4.33
+  },
+  "TTR_A_46": {
+   "chain": "TTR_A",
+   "mature_resnum": 46,
+   "resname": "SER",
+   "min_dist": 2.21
+  },
+  "TTR_A_47": {
+   "chain": "TTR_A",
+   "mature_resnum": 47,
+   "resname": "GLY",
+   "min_dist": 4.49
+  },
+  "TTR_A_48": {
+   "chain": "TTR_A",
+   "mature_resnum": 48,
+   "resname": "LYS",
+   "min_dist": 3.85
+  },
+  "TTR_A_72": {
+   "chain": "TTR_A",
+   "mature_resnum": 72,
+   "resname": "GLU",
+   "min_dist": 3.59
+  },
+  "TTR_A_74": {
+   "chain": "TTR_A",
+   "mature_resnum": 74,
+   "resname": "ASP",
+   "min_dist": 2.49
+  },
+  "TTR_A_76": {
+   "chain": "TTR_A",
+   "mature_resnum": 76,
+   "resname": "LYS",
+   "min_dist": 3.11
+  },
+  "TTR_A_77": {
+   "chain": "TTR_A",
+   "mature_resnum": 77,
+   "resname": "SER",
+   "min_dist": 3.11
+  },
+  "TTR_A_80": {
+   "chain": "TTR_A",
+   "mature_resnum": 80,
+   "resname": "LYS",
+   "min_dist": 2.87
+  },
+  "TTR_A_81": {
+   "chain": "TTR_A",
+   "mature_resnum": 81,
+   "resname": "ALA",
+   "min_dist": 3.53
+  },
+  "TTR_A_89": {
+   "chain": "TTR_A",
+   "mature_resnum": 89,
+   "resname": "GLU",
+   "min_dist": 3.35
+  },
+  "TTR_A_90": {
+   "chain": "TTR_A",
+   "mature_resnum": 90,
+   "resname": "HIS",
+   "min_dist": 3.01
+  }
+ },
+ "design_f64s_nterm_0_vs_9w9n_vitreous": {
+  "TTR_C_11": {
+   "chain": "TTR_C",
+   "mature_resnum": 11,
+   "resname": "PRO",
+   "min_dist": 2.89
+  },
+  "TTR_C_12": {
+   "chain": "TTR_C",
+   "mature_resnum": 12,
+   "resname": "LEU",
+   "min_dist": 3.61
+  },
+  "TTR_C_13": {
+   "chain": "TTR_C",
+   "mature_resnum": 13,
+   "resname": "MET",
+   "min_dist": 3.3
+  },
+  "TTR_C_14": {
+   "chain": "TTR_C",
+   "mature_resnum": 14,
+   "resname": "VAL",
+   "min_dist": 3.82
+  },
+  "TTR_C_16": {
+   "chain": "TTR_C",
+   "mature_resnum": 16,
+   "resname": "VAL",
+   "min_dist": 3.75
+  },
+  "TTR_C_25": {
+   "chain": "TTR_C",
+   "mature_resnum": 25,
+   "resname": "ALA",
+   "min_dist": 2.7
+  },
+  "TTR_C_26": {
+   "chain": "TTR_C",
+   "mature_resnum": 26,
+   "resname": "ILE",
+   "min_dist": 3.93
+  },
+  "TTR_C_27": {
+   "chain": "TTR_C",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 3.13
+  },
+  "TTR_C_28": {
+   "chain": "TTR_C",
+   "mature_resnum": 28,
+   "resname": "VAL",
+   "min_dist": 3.21
+  },
+  "TTR_C_29": {
+   "chain": "TTR_C",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 3.42
+  },
+  "TTR_C_30": {
+   "chain": "TTR_C",
+   "mature_resnum": 30,
+   "resname": "VAL",
+   "min_dist": 2.49
+  },
+  "TTR_C_32": {
+   "chain": "TTR_C",
+   "mature_resnum": 32,
+   "resname": "VAL",
+   "min_dist": 3.41
+  },
+  "TTR_C_40": {
+   "chain": "TTR_C",
+   "mature_resnum": 40,
+   "resname": "GLU",
+   "min_dist": 1.58
+  },
+  "TTR_C_42": {
+   "chain": "TTR_C",
+   "mature_resnum": 42,
+   "resname": "GLU",
+   "min_dist": 2.17
+  },
+  "TTR_C_83": {
+   "chain": "TTR_C",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 1.96
+  }
+ },
+ "design_f64s_nterm_0_vs_native_tetramer": {
+  "TTR_C_35": {
+   "chain": "TTR_C",
+   "mature_resnum": 35,
+   "resname": "LYS",
+   "min_dist": 4.48
+  },
+  "TTR_C_37": {
+   "chain": "TTR_C",
+   "mature_resnum": 37,
+   "resname": "ALA",
+   "min_dist": 2.47
+  },
+  "TTR_C_38": {
+   "chain": "TTR_C",
+   "mature_resnum": 38,
+   "resname": "ASP",
+   "min_dist": 3.47
+  },
+  "TTR_C_39": {
+   "chain": "TTR_C",
+   "mature_resnum": 39,
+   "resname": "ASP",
+   "min_dist": 3.06
+  },
+  "TTR_C_66": {
+   "chain": "TTR_C",
+   "mature_resnum": 66,
+   "resname": "GLU",
+   "min_dist": 3.77
+  },
+  "TTR_C_67": {
+   "chain": "TTR_C",
+   "mature_resnum": 67,
+   "resname": "GLY",
+   "min_dist": 3.5
+  },
+  "TTR_C_68": {
+   "chain": "TTR_C",
+   "mature_resnum": 68,
+   "resname": "ILE",
+   "min_dist": 3.22
+  },
+  "TTR_D_29": {
+   "chain": "TTR_D",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 4.24
+  },
+  "TTR_D_31": {
+   "chain": "TTR_D",
+   "mature_resnum": 31,
+   "resname": "HIS",
+   "min_dist": 2.51
+  },
+  "TTR_D_46": {
+   "chain": "TTR_D",
+   "mature_resnum": 46,
+   "resname": "SER",
+   "min_dist": 2.78
+  },
+  "TTR_D_47": {
+   "chain": "TTR_D",
+   "mature_resnum": 47,
+   "resname": "GLY",
+   "min_dist": 3.75
+  },
+  "TTR_D_48": {
+   "chain": "TTR_D",
+   "mature_resnum": 48,
+   "resname": "LYS",
+   "min_dist": 1.63
+  },
+  "TTR_D_72": {
+   "chain": "TTR_D",
+   "mature_resnum": 72,
+   "resname": "GLU",
+   "min_dist": 2.44
+  },
+  "TTR_D_73": {
+   "chain": "TTR_D",
+   "mature_resnum": 73,
+   "resname": "ILE",
+   "min_dist": 4.45
+  },
+  "TTR_D_74": {
+   "chain": "TTR_D",
+   "mature_resnum": 74,
+   "resname": "ASP",
+   "min_dist": 3.44
+  },
+  "TTR_D_76": {
+   "chain": "TTR_D",
+   "mature_resnum": 76,
+   "resname": "LYS",
+   "min_dist": 2.91
+  },
+  "TTR_D_77": {
+   "chain": "TTR_D",
+   "mature_resnum": 77,
+   "resname": "SER",
+   "min_dist": 3.7
+  },
+  "TTR_D_80": {
+   "chain": "TTR_D",
+   "mature_resnum": 80,
+   "resname": "LYS",
+   "min_dist": 2.88
+  },
+  "TTR_D_81": {
+   "chain": "TTR_D",
+   "mature_resnum": 81,
+   "resname": "ALA",
+   "min_dist": 3.39
+  },
+  "TTR_D_89": {
+   "chain": "TTR_D",
+   "mature_resnum": 89,
+   "resname": "GLU",
+   "min_dist": 3.47
+  },
+  "TTR_D_90": {
+   "chain": "TTR_D",
+   "mature_resnum": 90,
+   "resname": "HIS",
+   "min_dist": 4.37
+  }
+ },
+ "design_f64s_nterm_0_vs_6sdz_fibril": {
+  "TTR_B_102": {
+   "chain": "TTR_B",
+   "mature_resnum": 102,
+   "resname": "THR",
+   "min_dist": 4.34
+  },
+  "TTR_D_11": {
+   "chain": "TTR_D",
+   "mature_resnum": 11,
+   "resname": "PRO",
+   "min_dist": 2.78
+  },
+  "TTR_D_12": {
+   "chain": "TTR_D",
+   "mature_resnum": 12,
+   "resname": "LEU",
+   "min_dist": 3.9
+  },
+  "TTR_D_13": {
+   "chain": "TTR_D",
+   "mature_resnum": 13,
+   "resname": "MET",
+   "min_dist": 3.32
+  },
+  "TTR_D_14": {
+   "chain": "TTR_D",
+   "mature_resnum": 14,
+   "resname": "VAL",
+   "min_dist": 2.92
+  },
+  "TTR_D_15": {
+   "chain": "TTR_D",
+   "mature_resnum": 15,
+   "resname": "LYS",
+   "min_dist": 2.47
+  },
+  "TTR_D_24": {
+   "chain": "TTR_D",
+   "mature_resnum": 24,
+   "resname": "PRO",
+   "min_dist": 3.59
+  },
+  "TTR_D_25": {
+   "chain": "TTR_D",
+   "mature_resnum": 25,
+   "resname": "ALA",
+   "min_dist": 4.46
+  },
+  "TTR_D_26": {
+   "chain": "TTR_D",
+   "mature_resnum": 26,
+   "resname": "ILE",
+   "min_dist": 2.08
+  },
+  "TTR_D_27": {
+   "chain": "TTR_D",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 2.56
+  },
+  "TTR_D_30": {
+   "chain": "TTR_D",
+   "mature_resnum": 30,
+   "resname": "MET",
+   "min_dist": 3.78
+  },
+  "TTR_D_83": {
+   "chain": "TTR_D",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 2.83
+  }
+ },
+ "design_f64s_nterm_0_vs_8ade_fibril": {
+  "TTR_A_83": {
+   "chain": "TTR_A",
+   "mature_resnum": 83,
+   "resname": "ARG",
+   "min_dist": 2.98
+  },
+  "TTR_C_11": {
+   "chain": "TTR_C",
+   "mature_resnum": 11,
+   "resname": "PRO",
+   "min_dist": 3.33
+  },
+  "TTR_C_12": {
+   "chain": "TTR_C",
+   "mature_resnum": 12,
+   "resname": "LEU",
+   "min_dist": 2.57
+  },
+  "TTR_C_13": {
+   "chain": "TTR_C",
+   "mature_resnum": 13,
+   "resname": "MET",
+   "min_dist": 2.9
+  },
+  "TTR_C_14": {
+   "chain": "TTR_C",
+   "mature_resnum": 14,
+   "resname": "VAL",
+   "min_dist": 2.6
+  },
+  "TTR_C_15": {
+   "chain": "TTR_C",
+   "mature_resnum": 15,
+   "resname": "LYS",
+   "min_dist": 3.02
+  },
+  "TTR_C_16": {
+   "chain": "TTR_C",
+   "mature_resnum": 16,
+   "resname": "VAL",
+   "min_dist": 3.37
+  },
+  "TTR_C_24": {
+   "chain": "TTR_C",
+   "mature_resnum": 24,
+   "resname": "PRO",
+   "min_dist": 3.18
+  },
+  "TTR_C_25": {
+   "chain": "TTR_C",
+   "mature_resnum": 25,
+   "resname": "ALA",
+   "min_dist": 2.9
+  },
+  "TTR_C_26": {
+   "chain": "TTR_C",
+   "mature_resnum": 26,
+   "resname": "ILE",
+   "min_dist": 3.49
+  },
+  "TTR_C_27": {
+   "chain": "TTR_C",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 2.07
+  },
+  "TTR_C_28": {
+   "chain": "TTR_C",
+   "mature_resnum": 28,
+   "resname": "VAL",
+   "min_dist": 2.51
+  },
+  "TTR_C_29": {
+   "chain": "TTR_C",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 4.09
+  },
+  "TTR_C_30": {
+   "chain": "TTR_C",
+   "mature_resnum": 30,
+   "resname": "VAL",
+   "min_dist": 2.7
+  },
+  "TTR_C_31": {
+   "chain": "TTR_C",
+   "mature_resnum": 31,
+   "resname": "HIS",
+   "min_dist": 4.26
+  },
+  "TTR_C_32": {
+   "chain": "TTR_C",
+   "mature_resnum": 32,
+   "resname": "VAL",
+   "min_dist": 3.74
+  },
+  "TTR_C_40": {
+   "chain": "TTR_C",
+   "mature_resnum": 40,
+   "resname": "GLU",
+   "min_dist": 3.15
+  },
+  "TTR_C_43": {
+   "chain": "TTR_C",
+   "mature_resnum": 43,
+   "resname": "PHE",
+   "min_dist": 3.24
+  }
+ },
+ "design_f64s_nterm_0_vs_native_monomer": {
+  "TTR_A_27": {
+   "chain": "TTR_A",
+   "mature_resnum": 27,
+   "resname": "ASN",
+   "min_dist": 2.87
+  },
+  "TTR_A_29": {
+   "chain": "TTR_A",
+   "mature_resnum": 29,
+   "resname": "ALA",
+   "min_dist": 3.6
+  },
+  "TTR_A_31": {
+   "chain": "TTR_A",
+   "mature_resnum": 31,
+   "resname": "HIS",
+   "min_dist": 2.31
+  },
+  "TTR_A_33": {
+   "chain": "TTR_A",
+   "mature_resnum": 33,
+   "resname": "PHE",
+   "min_dist": 3.19
+  },
+  "TTR_A_43": {
+   "chain": "TTR_A",
+   "mature_resnum": 43,
+   "resname": "PRO",
+   "min_dist": 2.7
+  },
+  "TTR_A_48": {
+   "chain": "TTR_A",
+   "mature_resnum": 48,
+   "resname": "LYS",
+   "min_dist": 2.8
+  },
+  "TTR_A_72": {
+   "chain": "TTR_A",
+   "mature_resnum": 72,
+   "resname": "GLU",
+   "min_dist": 2.34
+  },
+  "TTR_A_74": {
+   "chain": "TTR_A",
+   "mature_resnum": 74,
+   "resname": "ASP",
+   "min_dist": 4.28
+  },
+  "TTR_A_77": {
+   "chain": "TTR_A",
+   "mature_resnum": 77,
+   "resname": "SER",
+   "min_dist": 2.73
+  },
+  "TTR_A_80": {
+   "chain": "TTR_A",
+   "mature_resnum": 80,
+   "resname": "LYS",
+   "min_dist": 2.87
+  }
+ }
+}

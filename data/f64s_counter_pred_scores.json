@@ -1,0 +1,62 @@
+{
+ "design_f64s_nterm_3_vs_9w9n_vitreous": {
+  "iptm": 0.8698,
+  "ptm": 0.8874,
+  "complex_plddt": 0.884,
+  "confidence_score": 0.8812
+ },
+ "design_f64s_nterm_3_vs_6sdz_fibril": {
+  "iptm": 0.887,
+  "ptm": 0.9021,
+  "complex_plddt": 0.9107,
+  "confidence_score": 0.906
+ },
+ "design_f64s_nterm_3_vs_8ade_fibril": {
+  "iptm": 0.9104,
+  "ptm": 0.9204,
+  "complex_plddt": 0.9021,
+  "confidence_score": 0.9038
+ },
+ "design_f64s_nterm_3_vs_native_tetramer": {
+  "iptm": 0.7845,
+  "ptm": 0.8231,
+  "complex_plddt": 0.9196,
+  "confidence_score": 0.8926
+ },
+ "design_f64s_nterm_3_vs_native_monomer": {
+  "iptm": 0.7453,
+  "ptm": 0.8654,
+  "complex_plddt": 0.8946,
+  "confidence_score": 0.8648
+ },
+ "design_f64s_nterm_0_vs_9w9n_vitreous": {
+  "iptm": 0.6913,
+  "ptm": 0.7486,
+  "complex_plddt": 0.8537,
+  "confidence_score": 0.8212
+ },
+ "design_f64s_nterm_0_vs_native_tetramer": {
+  "iptm": 0.7904,
+  "ptm": 0.8278,
+  "complex_plddt": 0.9213,
+  "confidence_score": 0.8951
+ },
+ "design_f64s_nterm_0_vs_6sdz_fibril": {
+  "iptm": 0.7892,
+  "ptm": 0.8201,
+  "complex_plddt": 0.8918,
+  "confidence_score": 0.8713
+ },
+ "design_f64s_nterm_0_vs_8ade_fibril": {
+  "iptm": 0.8533,
+  "ptm": 0.8725,
+  "complex_plddt": 0.861,
+  "confidence_score": 0.8594
+ },
+ "design_f64s_nterm_0_vs_native_monomer": {
+  "iptm": 0.3894,
+  "ptm": 0.694,
+  "complex_plddt": 0.9176,
+  "confidence_score": 0.8119
+ }
+}

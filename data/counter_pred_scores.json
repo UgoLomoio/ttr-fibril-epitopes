@@ -1,0 +1,50 @@
+{
+ "design_fibril_site1_0_vs_6sdz_fibril": {
+  "iptm": 0.7627358436584473,
+  "ptm": 0.798429548740387,
+  "complex_plddt": 0.8687431812286377,
+  "confidence_score": 0.8475417494773865
+ },
+ "design_fibril_site1_0_vs_8ade_fibril": {
+  "iptm": 0.7150040864944458,
+  "ptm": 0.7590668797492981,
+  "complex_plddt": 0.8663324117660522,
+  "confidence_score": 0.836066722869873
+ },
+ "design_fibril_site1_0_vs_native_monomer": {
+  "iptm": 0.4605781137943268,
+  "ptm": 0.7263147234916687,
+  "complex_plddt": 0.921976625919342,
+  "confidence_score": 0.8296969532966614
+ },
+ "design_fibril_site1_0_vs_native_tetramer": {
+  "iptm": 0.7772310972213745,
+  "ptm": 0.817373514175415,
+  "complex_plddt": 0.9407780766487122,
+  "confidence_score": 0.9080686569213867
+ },
+ "design_fibril_site1_2_vs_6sdz_fibril": {
+  "iptm": 0.8234822154045105,
+  "ptm": 0.8478289842605591,
+  "complex_plddt": 0.8838765025138855,
+  "confidence_score": 0.8717976808547974
+ },
+ "design_fibril_site1_2_vs_native_monomer": {
+  "iptm": 0.8042929172515869,
+  "ptm": 0.893363356590271,
+  "complex_plddt": 0.9120737314224243,
+  "confidence_score": 0.8905176520347595
+ },
+ "design_fibril_site1_2_vs_8ade_fibril": {
+  "iptm": 0.8838338851928711,
+  "ptm": 0.8987721800804138,
+  "complex_plddt": 0.8865913152694702,
+  "confidence_score": 0.8860398530960083
+ },
+ "design_fibril_site1_2_vs_native_tetramer": {
+  "iptm": 0.7907379269599915,
+  "ptm": 0.8288921117782593,
+  "complex_plddt": 0.937224268913269,
+  "confidence_score": 0.9079270362854004
+ }
+}
