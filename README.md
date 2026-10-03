@@ -7,10 +7,8 @@ Transthyretin (TTR) amyloidosis involves refolding of the native tetramer into c
 ## Repository structure
 
 ```
-├── manuscript/            Manuscript PDF/LaTeX source, references, response-to-editor letter
 ├── figures/               All main and supplementary figures (PNG; SVG where available)
 ├── data/                  All data files generated in this study (see below)
-└── scripts/               Figure/analysis regeneration scripts
 ```
 
 ## Data files (`data/`)
@@ -34,18 +32,9 @@ Transthyretin (TTR) amyloidosis involves refolding of the native tetramer into c
 
 Cryo-EM structures were retrieved from the RCSB PDB (accessed 3 October 2026): native tetramer `1ICT` and the 30 patient-derived fibril structures `6SDZ, 8ADE, 8E7D, 8G9R, 8GBR, 8E7H, 8TDN, 8TDO, 8E7E, 8E7J, 7OB4, 9W9J–9WA2`.
 
-## Regenerating Figure 12
+## Software for reproduction.
 
-```
-pip install matplotlib numpy
-python scripts/fig12_rsa_panel_regen.py
-```
-
-The script reads `data/rsa_expanded_panel.json` and `data/nterm_pairwise_rmsd.npy` and writes `fig12_rsa_panel.png/.svg` (Panel A: per-residue RSA of residues 11–25 by tissue group with native reference; Panel B: 30×30 N-terminal RMSD heatmap; Panel C: site-level RSA bars).
-
-## Availability note
-
-Per-design RF2 quality metrics and the exact weights of the T-cell-prioritisation composite score are available from the authors.
+Analyses were performed using ProteoformAnalyzer (https://github.com/UgoLomoio/proteoform_analyzer), including ThermoMPNN-based stability assessment, structural impact analysis of post-translational modifications and missense mutations, Boltz-2 structure prediction, epitope prediction, BoltzGen-based design, and RFAntibody design. The analysis code, configuration files, candidate sequences, and software versions are provided in the Supplementary Data and will be deposited in a public repository upon publication.
 
 ## License
 
